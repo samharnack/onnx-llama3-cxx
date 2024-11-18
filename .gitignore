@@ -1,0 +1,5 @@
+.DS_Store
+/src/build
+# ignore all files in model directory except .gitkeep
+/src/model/*
+!src/model/.gitkeep
